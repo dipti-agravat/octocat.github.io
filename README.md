@@ -32,6 +32,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dipti-agravat/octocat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Jekyll Themes
+[About Me](https://github.com/dipti-agravat/octocat.github.io/edit/main/Aboutme.md)
 ### Support or Contact
 [Image](https://cdn.pixabay.com/photo/2015/09/16/08/55/online-942408_960_720.jpg)
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
