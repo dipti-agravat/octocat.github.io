@@ -1,5 +1,10 @@
 # About Radix
 
+ <p align="center">
+     <a href="https://dipti-agravat.github.io/octocat.github.io/aboutme.html">
+  <img src="https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/themes/radixweb/images/logo_radix.png" alt="Sublime's custom image"/>
+     </a>
+</p>
 ## Company profile
 
 Established in 1980, Radix is one of India's foremost players in the field of Industrial Process Instrumentation and Automation. Starting out as a 2-man team in Bombay in 1980, Radix has now grown to over 260 employees without taking on a single rupee of debt, on the back of unmatched design and development strength coupled with pragmatic investment in growth. Our sales-force and products and services are currently found all over India as well as the highly-discerning German and European markets.
