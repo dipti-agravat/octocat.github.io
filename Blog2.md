@@ -15,8 +15,10 @@ Secondly, it has integration capabilities that support a wide array of tools and
 <details><summary>Table of Contents</summary>
 
     1. Why AngularJS?
-    2. Top 24 AngularJS tools for 2022
-    3. Wrapping up
+    
+    2. Top 24 AngularJS tools for 2022.
+    
+    3. Wrapping up.
    
 
 </details>
@@ -46,7 +48,7 @@ Top Angular JS Development Tools in 2022 and Beyond
 The question that now arises is, what makes Angular JS so effective as a software development framework? The answer, Angular JS dev tools. Here’s our list of the top Angular JS development tools that facilitate hyper-effective web app development in 2022 and beyond.
 
 
- 1. Karma
+- Karma
 
 Angularjs Development Tool - Karma
 
@@ -55,42 +57,42 @@ Karma is a QA and testing framework which happens to lead the list of AngularJS 
 Development professionals deploy Karma to test their products on actual devices and browsers instead of simulations. This ‘on-ground testing’ capability of Karma helps developers rapidly identify potential issues, bugs, and glitches compared to a simulated/lab setting.
 
 
-2. Angular JS UI
+- Angular JS UI
 
 Angularjs UI
 
 Angular JS UI is a set of UI components built in Angular. These components can be used as building blocks to create an entire application with minimal code required from developers. These UI components are the primary reason why Angular JS development is so popular. Easily one of the best Angular JS development tools, Angular JS UI facilitates the rapid design and delivery of Angular JS applications.
 
 
-3. Ment.io
+- Ment.io
 
 Ment.io - Angularjs Development Tools
 
 Ment.io’s USP is its ability to function independently without jQuery integration. This offers development teams unmatched levels of flexibility, allowing them to apply Ment.io to specific code blocks directly and accept selectable text input. Ment.io can also introduce macros widgets and mentions, thus further enhancing efficacy and cutting down on developer effort, making Ment.io on of the most highly desired Angular JS development tools.
 
 
-4. Jasmine
+- Jasmine
 
 Jasmine – Angularjs Development Tools
 
 Jasmine is yet another full-fledged testing framework that makes our list of Angular JS tools. Jasmine’s aligned configuration removes the need for developers to rely on browsers or other JavaScript testing environments. Jasmine is minimalistic and sports an easy-to-use syntax that offers high levels of developer convenience while testing code. Jasmine works best while testing Node.js code and on websites that support JavaScript runtimes, making Jasmine one of the primary Angular devtools.
 
 
-5. Restangular
+- Restangular
 
 Angular JS Development Tools – Restangular
 
 Restangular is an app service that powers commands like GET, POST, DELETE and UPDATE, with minimal code requirements. Restangular is perfect for web applications that require data consumption from RESTful APIs, making the entire process a lot more streamlined while enhancing app performance. Restangular is considered one of the most commonly used Angular JS development tools.
 
 
-6. Protractor
+- Protractor
 
 Protractor – Angular JS Development Tool
 
 Another frontrunner in our list of the best Angular development tools, Protractor, is an end-to-end testing framework. Protractor stands out in the crowd of Angular JS testing frameworks because it can autonomously sync the web page being worked upon with the testing sessions as soon as the runtime ends. This offers a true-to-life testing ecosystem experience.
 
 
-7. Angular-gettext
+- Angular-gettext
 
 Angular Gettext Tool
 
