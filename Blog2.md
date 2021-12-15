@@ -10,13 +10,15 @@ Secondly, it has integration capabilities that support a wide array of tools and
 
 ![Image](https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/15-surprising-stats-about-angular.png)
 
+
+
 <details><summary>Table of Contents</summary>
-  <p>
+
     1. Why AngularJS?
     2. Top 24 AngularJS tools for 2022
     3. Wrapping up
    
-</p>
+
 </details>
 
 
