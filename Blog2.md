@@ -13,13 +13,15 @@ Secondly, it has integration capabilities that support a wide array of tools and
 
 
 <details><summary>Table of Contents</summary>
-
+<p>
     1. Why AngularJS?
-    
+    </p>
+    <p>
     2. Top 24 AngularJS tools for 2022.
-    
+    </p>
+    <p>
     3. Wrapping up.
-   
+   </p>
 
 </details>
 
