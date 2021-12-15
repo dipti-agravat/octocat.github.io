@@ -10,6 +10,15 @@ Secondly, it has integration capabilities that support a wide array of tools and
 
 ![Image](https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/15-surprising-stats-about-angular.png)
 
+<details><summary>Table of Contents</summary>
+  <p>
+    1. Why AngularJS?
+    2. Top 24 AngularJS tools for 2022
+    3. Wrapping up
+   
+</p>
+</details>
+
 
 ### Why AngularJS?
 
@@ -40,6 +49,7 @@ Angularjs Development Tool - Karma
 Karma is a QA and testing framework which happens to lead the list of AngularJS performance testing tools. The USP of Karma is that it allows developers to test their code in a true-to-life ecosystem.
 
 Development professionals deploy Karma to test their products on actual devices and browsers instead of simulations. This ‘on-ground testing’ capability of Karma helps developers rapidly identify potential issues, bugs, and glitches compared to a simulated/lab setting.
+
 2. Angular JS UI
 
 Angularjs UI
@@ -70,3 +80,5 @@ Another frontrunner in our list of the best Angular development tools, Protracto
 Angular Gettext Tool
 
 Newbie developers find angular-gettext the perfect tool for code translations in Angular JS. Angular-gettext is deployed by developers to efficiently translate annotated blocks of code written in natural language into browser/framework comprehensible instructions seamlessly.
+
+
