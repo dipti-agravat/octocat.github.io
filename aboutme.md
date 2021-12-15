@@ -1,6 +1,6 @@
 # About Radix
 
- <p align="center">
+ <p align="right">
      <a href="https://dipti-agravat.github.io/octocat.github.io/aboutme.html">
   <img src="https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/themes/radixweb/images/logo_radix.png" alt="Sublime's custom image"/>
      </a>
