@@ -34,7 +34,7 @@ Some of Angular JS’s USPs are-
 
 You would require numerous lines of code to acquire a simple ‘hello’ as an output in any other development framework. Thanks to AngularJS, your web applications can be easily bootstrapped by utilizing the tools mentioned above, automatically injected into the app in a Guice dependency injection format. This means that developers can build the required features faster while acquiring complete control over the initialization of mechanized tests.
 
--Call-Back Registration
+- Call-Back Registration
 
 Call-back registration helps by decreasing JavaScript coding significantly, thus easing comprehension of what the app is meant to do.
 Data Organization to and from UI
