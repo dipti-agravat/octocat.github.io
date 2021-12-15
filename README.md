@@ -6,4 +6,7 @@
 [Read More](https://dipti-agravat.github.io/octocat.github.io/Blog1.html)
 
 
+### Top AngularJS Development Tools in 2022
+[Read More](https://dipti-agravat.github.io/octocat.github.io/Blog2.html)
+
 
