@@ -1,4 +1,4 @@
-## Welcome to Radix Blogs
+# Welcome to Radix Blogs
 
 [About Me](https://dipti-agravat.github.io/octocat.github.io/aboutme.html)
 
