@@ -46,7 +46,7 @@ Top Angular JS Development Tools in 2022 and Beyond
 The question that now arises is, what makes Angular JS so effective as a software development framework? The answer, Angular JS dev tools. Here’s our list of the top Angular JS development tools that facilitate hyper-effective web app development in 2022 and beyond.
 
 
-1. Karma
+ 1. Karma
 
 Angularjs Development Tool - Karma
 
