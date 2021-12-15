@@ -13,7 +13,7 @@
 
 
 
-### Diversity and Inclusion- Twin Pillars at Radixweb
+### <img src="https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Diversity-and-Inclusion-at-Radixweb.jpg" alt="Avatar" style="width:200px;border-radius: 50%;"> Diversity and Inclusion- Twin Pillars at Radixweb
 [Read More>](https://dipti-agravat.github.io/octocat.github.io/Blog1.html)
 
 
