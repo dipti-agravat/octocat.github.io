@@ -18,7 +18,7 @@
 [Read More>](https://dipti-agravat.github.io/octocat.github.io/Blog1.html)
 </p>
 
-### <img src="https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/15-surprising-stats-about-angular.png" alt="Avatar" style="border-radius: 50%; vertical-align: middle; width: 140px; height: 130px;"> Top AngularJS Development Tools in 2022
+### <img src="https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Best-AngularJS-Development-Tools.jpg" alt="Avatar" style="border-radius: 50%; vertical-align: middle; width: 140px; height: 130px;"> Top AngularJS Development Tools in 2022
 <p align="center">
 [Read More>](https://dipti-agravat.github.io/octocat.github.io/Blog2.html)
 </p>
