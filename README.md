@@ -1,8 +1,7 @@
 # Welcome to Radix Blogs
- ![Image](https://dm8ix2eh2gsglmbyba2271c4-wpengine.netdna-ssl.com/wp-content/themes/radixweb/images/logo_radix.png)
+     
  
- 
-<p style="color:gray; font-size:80%;" align="center"> [About Me](https://dipti-agravat.github.io/octocat.github.io/aboutme.html) </p>
+[About Me](https://dipti-agravat.github.io/octocat.github.io/aboutme.html)
 
 
 
