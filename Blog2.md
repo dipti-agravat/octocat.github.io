@@ -12,18 +12,18 @@ Secondly, it has integration capabilities that support a wide array of tools and
 
 
 
-   <span align="center" style="background-color:red"><details><summary>Table of Contents</summary>
+   <details><summary>Table of Contents</summary>
 <p>
-    1. Why AngularJS?
+   1. <a href="#why-angularjs">Why AngularJS?</a>
     </p>
     <p>
-    2. Top 24 AngularJS tools for 2022.
+    2. <a href="#why-angularjs">Top 24 AngularJS tools for 2022.</a>
     </p>
     <p>
-    3. Wrapping up.
+    3.<a href="#why-angularjs">Wrapping up.</a>
    </p>
 
-</details></span>
+</details>
 
 
 ### Why AngularJS?
