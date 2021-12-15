@@ -3,10 +3,10 @@
 [About Me](https://dipti-agravat.github.io/octocat.github.io/aboutme.html)
 
 ### Diversity and Inclusion- Twin Pillars at Radixweb
-[Read More](https://dipti-agravat.github.io/octocat.github.io/Blog1.html)
+[Read More>](https://dipti-agravat.github.io/octocat.github.io/Blog1.html)
 
 
 ### Top AngularJS Development Tools in 2022
-[Read More](https://dipti-agravat.github.io/octocat.github.io/Blog2.html)
+[Read More>](https://dipti-agravat.github.io/octocat.github.io/Blog2.html)
 
 
