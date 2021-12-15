@@ -12,7 +12,7 @@ Secondly, it has integration capabilities that support a wide array of tools and
 
 
 
-<details><summary>Table of Contents</summary>
+   <span align="center"><details><summary>Table of Contents</summary>
 <p>
     1. Why AngularJS?
     </p>
@@ -23,7 +23,7 @@ Secondly, it has integration capabilities that support a wide array of tools and
     3. Wrapping up.
    </p>
 
-</details>
+</details></span>
 
 
 ### Why AngularJS?
