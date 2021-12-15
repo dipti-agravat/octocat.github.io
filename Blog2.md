@@ -12,7 +12,7 @@ Secondly, it has integration capabilities that support a wide array of tools and
 
 
 
-   <span align="center"><details><summary>Table of Contents</summary>
+   <span align="center" style="background-color:red"><details><summary>Table of Contents</summary>
 <p>
     1. Why AngularJS?
     </p>
